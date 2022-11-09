@@ -1,0 +1,2 @@
+rootProject.name = "Retrofit MySQL"
+include ':app'
